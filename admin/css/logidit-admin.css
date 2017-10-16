@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wrap.logidit {
+    background: #e0e0e0;
+    margin: 15px !important;
+    padding: 15px !important;
+    line-height: 25px;
+}
