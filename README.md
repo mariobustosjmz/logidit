@@ -21,3 +21,14 @@ Simple plugin usando "WordPress Plugin Boilerplate ". El plugin agrega una opcio
 - Extract the logidit directory to your computer
 - Upload the logidit directory to the /wp-content/plugins/ directory
 - Activate the plugin in the Plugin dashboard
+
+
+## Screens
+
+### Admin
+![alt tag](https://github.com/mariobustosjmz/logidit/blob/master/admin.png)
+
+
+
+### Login
+![alt tag](https://github.com/mariobustosjmz/logidit/blob/master/result.png)
